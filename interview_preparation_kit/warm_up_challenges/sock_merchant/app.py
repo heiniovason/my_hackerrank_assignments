@@ -1,3 +1,5 @@
+#!/bin/python3
+
 def sockMerchant(n, ar):
     sock_pairs = None
     # constraint 1
